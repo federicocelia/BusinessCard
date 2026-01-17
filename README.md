@@ -1,4 +1,5 @@
 Business Card Project
+
 📌 Overview
 This project is a custom digital business card built using HTML and CSS. It displays a profile image, name, role, and contact details while experimenting with layout, color palettes, hover effects, and animations. The goal is to practice front‑end fundamentals and explore creative UI styling.
 
