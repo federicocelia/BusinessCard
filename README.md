@@ -1,12 +1,12 @@
-#Business Card Project
+# Business Card Project
 
-##📌 Overview
+## 📌 Overview
 
 This project is a custom digital business card built using HTML and CSS. It displays a profile image, name, role, and contact details while experimenting with layout, color palettes, hover effects, and animations. The goal is to practice front‑end fundamentals and explore creative UI styling.
 
-##✨ Features
+## ✨ Features
 
-##🎨 Custom Color Palette
+## 🎨 Custom Color Palette
 
 The design uses a personalized palette inspired by Coolors, including:
 
@@ -18,7 +18,7 @@ Purple highlight color on hover
 
 This creates a clean, modern aesthetic.
 
-##🖼️ Styled Avatar
+## 🖼️ Styled Avatar
 
 The profile image includes:
 
@@ -30,7 +30,7 @@ A hover effect that changes the border to goldenrod
 
 This adds personality and interactivity.
 
-##💳 Card Layout
+## 💳 Card Layout
 
 The card includes:
 
@@ -44,13 +44,13 @@ A bold bottom border
 
 Everything is arranged for clarity and balance.
 
-##🎬 Sliding Background Hover Animation
+## 🎬 Sliding Background Hover Animation
 
 The card features a custom animation where a darker background color slides in from the left when hovered. When the mouse leaves, the background slides back out, returning to the original color.
 
 This effect is created using a ::before pseudo‑element layered behind the card content.
 
-##🖌️ Smooth Color Transitions
+## 🖌️ Smooth Color Transitions
 
 On hover:
 
@@ -62,7 +62,7 @@ The sliding background animation plays smoothly
 
 These transitions give the card a polished, dynamic feel.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5 for structure
 
@@ -72,7 +72,7 @@ Flexbox for layout
 
 Pseudo‑elements for animated background effects
 
-##📚 What I Learned
+## 📚 What I Learned
 
 How to use pseudo‑elements to create animated background layers
 
@@ -82,7 +82,7 @@ How to structure a clean card layout with Flexbox
 
 How to apply a consistent color palette to a design
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 
 Potential enhancements:
 
